@@ -43,7 +43,7 @@ _https://rentry.co/72yug_
 
 ## słownictwo dotyczące przemocy 1,2,3/35
 
-**ZDJĘCIE BARTKA NA GRUPIE :)**
+https://scontent-vie1-1.xx.fbcdn.net/v/t1.15752-9/315520307_3369390746665093_1460692582495316076_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_ohc=mQbx09AZOaYAX81PGF3&_nc_ht=scontent-vie1-1.xx&oh=03_AdTIOTkhz3aaz6EvfJyxRSwii5MMtAd3rSa5w1ghI6n8vQ&oe=639A22DB
 
 ## strona bierna z czasownikami modalnymi 5,6,7/82
 
