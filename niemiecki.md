@@ -1,3 +1,5 @@
+https://rentry.co/72yug
+
 ## nazwy uczuć 1/30 1,2,3/83 / słownictwo dotyczące konfliktów 2/33:
 
 - **aufgeregt** - poruszony
