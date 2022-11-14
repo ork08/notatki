@@ -1,5 +1,3 @@
-_https://rentry.co/72yug_
-
 ## nazwy uczuć 1/30 1,2,3/83 / słownictwo dotyczące konfliktów 2/33:
 
 - **aufgeregt** - poruszony
@@ -62,20 +60,23 @@ Tego typu zdania tworzą stronę bierną poprzez **zamianę bezokolicznika na tr
 - Kein Mechaniker kann das Auto reparieren. => Das Auto kann von keinem Mechaniker repariert werden.
   - Żaden mechanik nie może naprawić tego samochodu. => Ten samochód nie może zostać naprawiony przez żadnego mechanika.
 
-2. Utworz zdania w stronie biernej z podanymi czasownikami modalnymi.
-   a) Die Hauspflichten werden unter allen Familienmitgliedern geteilt (sollen)
-   b) Die Wohnung wird regelmaBig aufgeraumt. (mussen)
-   c) Die fenster werden nur ab und zu geputzt. (konnen)
-   d) Die taglichen Einkaufe werden nicht vergessen. (durfen)
-   e) Fur gute Atmosphare wird von allen gesorgt. (mussen)
-
 ---
 
-2.  a) Die Hauspflichten sollen unter allen Familienmitgliedern geteilt werden.
-    b) Die Wohnung muss regelmäßig aufgeräumt werden.
-    c) Die Fenster können nur ab und zu geputzt werden.
-    d) Die täglichen Einkäufe dürfen nicht vergessen werden.
-    e) Für gute Atmosphäre muss von allen gesorgt werden.
+1. Utworz zdania w stronie biernej z podanymi czasownikami modalnymi.
+
+- a) Die Hauspflichten werden unter allen Familienmitgliedern geteilt (sollen)
+- b) Die Wohnung wird regelmaBig aufgeraumt. (mussen)
+- c) Die fenster werden nur ab und zu geputzt. (konnen)
+- d) Die taglichen Einkaufe werden nicht vergessen. (durfen)
+- e) Fur gute Atmosphare wird von allen gesorgt. (mussen)
+
+2. Rozwiązanie:
+
+- a) Die Hauspflichten sollen unter allen Familienmitgliedern geteilt werden.
+- b) Die Wohnung muss regelmäßig aufgeräumt werden.
+- c) Die Fenster können nur ab und zu geputzt werden.
+- d) Die täglichen Einkäufe dürfen nicht vergessen werden.
+- e) Für gute Atmosphäre muss von allen gesorgt werden.
 
 ## strona bierna Imperfekt 1/85
 
@@ -84,8 +85,8 @@ Tego typu zdania tworzą stronę bierną poprzez **zamianę bezokolicznika na tr
 ---
 
 - Ich **wurde** nicht **informiert**.
-  Du **wurdest** von deinem Freund **angerufen**.
-  Er/Sie/Es **wurde** von dem Lehrer **gefragt**.
-  Wir **wurden** von den Freunden **besucht**.
-  Ihr **wurdet** in der Disko **gesehen**.
-  Sie **wurden** den neuen Kollegen **vorgestellt**.
+- Du **wurdest** von deinem Freund **angerufen**.
+- Er/Sie/Es **wurde** von dem Lehrer **gefragt**.
+- Wir **wurden** von den Freunden **besucht**.
+- Ihr **wurdet** in der Disko **gesehen**.
+- Sie **wurden** den neuen Kollegen **vorgestellt**.
